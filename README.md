@@ -1,61 +1,99 @@
-<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- Encabezado con imagen alineada correctamente -->
+<table>
+<tr>
+<td valign="top">
 
-# 👋 ¡Hola! Soy Carlos Caycho
+# 👋 ¡Hola mundo! Soy **Carlos Caycho** 🇵🇪
 
-> Estudiante de **Análisis de Sistemas** en el Instituto Valle Grande
+> Estudiante avanzado de **Análisis de Sistemas** | Full Stack Developer en evolución constante | Apasionado por la tecnología, la innovación y la construcción de soluciones que transforman ideas en realidades.
 
-- 💻 Apasionado por el desarrollo de software fullstack
-- 🧠 Actualmente trabajando en proyectos con **Spring Boot**, **Angular**, **SQL Server**, **React** y más
-- 🧪 Experiencia desarrollando sistemas completos para restaurantes, apps web con login, chat y panel de administración
-- ⚙️ Implementando proyectos con **Docker**, **JasperReports**, **GitHub Actions** y entornos colaborativos como **Trello**, **Slack** y **Figma**
-- 🎮 Me gusta programar mods para juegos como *Left 4 Dead 2* y desarrollar herramientas estilo "hacker terminal" ficticias
-
----
-
-### 📬 Conéctate conmigo
-
-- 📱 WhatsApp: [Clic aquí](https://wa.me/51903011604)
-- 📧 Email: [carlos.caycho.casas@vallegrande.edu.pe](mailto:carlos.caycho.casas@vallegrande.edu.pe)
-- 🧑‍💻 GitHub: [CarlosCaychoCasas](https://github.com/CarlosCaychoCasas)
-- 🎥 YouTube: [Carlos Alejandro Caycho Casas](https://www.youtube.com/@CarlosAlejandroCaychoCasas)
+</td>
+<td>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Carlos Caycho" witdh="230px" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Tecnologías que uso
+## 🚀 Sobre mí
 
-<div>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQL Server" src="https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+- 👨‍💻 Desarrollador Full Stack con foco en sistemas empresariales, apps modernas y herramientas con impacto real.
+- 🔧 He trabajado en proyectos complejos: **sistemas para restaurantes**, **plataformas administrativas**, **módulos de facturación**, **asistentes virtuales por voz**, **prototipos UX/UI**, y más.
+- 🧰 Stack sólido: `Spring Boot`, `Angular`, `SQL Server`, `React`, `Node.js`, `Docker`, `JasperReports`, `Figma`, y otros.
+- 🛠️ Creo soluciones limpias, escalables y seguras, integrando backend robusto, frontend responsive y bases de datos optimizadas.
+- 👾 También desarrollo mods y simuladores como *NetReaper* o *slide-cancel en L4D2*, porque amo los retos técnicos.
+
+---
+
+## 🌐 Conéctate conmigo
+
+- 📱 [WhatsApp directo](https://wa.me/51903011604)
+- 📧 [Email institucional](mailto:carlos.caycho.casas@vallegrande.edu.pe)
+- 🧑‍💻 [GitHub](https://github.com/CarlosCaychoCasas)
+- 📹 [YouTube Dev Logs](https://www.youtube.com/@CarlosAlejandroCaychoCasas)
+
+---
+
+## 🧠 Tecnologías & Herramientas
+
+<div align="center">
+
+| Lenguajes     | Frameworks / Librerías | Bases de Datos     | DevOps / Otros      |
+|---------------|------------------------|---------------------|----------------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white) ![JasperReports](https://img.shields.io/badge/JasperReports-0072C6?style=for-the-badge&logo=data&logoColor=white) |
 </div>
 
 ---
 
-## 📊 Estadísticas
+## 🛠️ Proyectos en acción
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosCaychoCasas&show_icons=true&theme=chartreuse-dark" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCaychoCasas&layout=compact&theme=chartreuse-dark" width="360"/>
+  <a href="https://cxrlscpx.vercel.app/" target="_blank">
+    <img src="https://api.microlink.io/?url=https://cxrlscpx.vercel.app/&screenshot=true&embed=screenshot.url" alt="Vista previa de cxrlscpx.vercel.app" width="600"/>
+  </a>
 </p>
 
-![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=CarlosCaychoCasas&custom_title=Actividad%20de%20Carlos%20Caycho&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
+<p align="center">
+  <a href="https://github.com/CarlosCaychoCasas/NetReaper">
+    <img alt="NetReaper" src="https://img.shields.io/badge/NetReaper-CyberThreatSimulator-blueviolet?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/CarlosCaychoCasas/L4D2-Mods">
+    <img alt="L4D2 Mods" src="https://img.shields.io/badge/L4D2-SlideCancel%20Mod-darkgreen?style=for-the-badge&logo=steam">
+  </a>
+  <a href="https://github.com/CarlosCaychoCasas/Sistema-Restaurante">
+    <img alt="Restaurante" src="https://img.shields.io/badge/Restaurante-System-orange?style=for-the-badge&logo=springboot">
+  </a>
+</p>
+
 
 ---
 
-📅 _Última actualización: **03/07/2025**_
+## 🎯 Proyectos más destacados
 
-_Créditos: [Carlos Caycho](https://github.com/CarlosCaychoCasas)_
+- 🔐 **Sistema Integral para Restaurantes** (Login, pedidos, reservas, menú, inventarios, JasperReports)
+- 💬 **App de Reclamos y Facturación Web** (Spring Boot + React + Socket Chat)
+- 🧠 **Asistente de voz local con Python** (control de PC, comandos de voz, IA embebida)
+- 🎮 **Mod L4D2 Slide-Cancel / FPS Enhancer** (scripts Lua, movimientos avanzados)
+- 🛡 **NetReaper - Cyber Threat Simulator** (simulación educativa de ciberataques)
+
+---
+## 🎮 Steam Gamer Tag
+
+<p align="center">
+  <a href="https://steamcommunity.com/id/carlitosxdpe/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-carlitosxdpe-000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+</p>
+
+
+## 🧩 Filosofía de código
+
+> _"No se trata solo de escribir código, se trata de construir algo que otros puedan entender, mejorar y disfrutar."_
+
+---
+
+📅 **Última actualización:** _03 de julio de 2025_  
+🔗 _Hecho con 💚 por [Carlos Caycho](https://github.com/CarlosCaychoCasas)_
+
+---
