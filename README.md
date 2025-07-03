@@ -1,62 +1,61 @@
-<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- 
-### <h1>¡Hola! 👋 Soy Carlos Caycho</h1>
+<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-> Soy Estudiante de Analisis de Sistemas
-<br />
+# 👋 ¡Hola! Soy Carlos Caycho
 
-- :computer: &nbsp;Conéctate conmigo en **[WhatsApp](https://wa.me/51903011604)**
-- 📫 Puedes contactarme en **carlos.caycho.casas@vallegrande.edu.pe**
-- 📝 Estudiando en el Instituto Valle Grande
-- 💬 Pregúntame sobre lo que quieras, estaré feliz de ayudar
-- <img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="visitas al perfil de Patricio" /> 
-  <a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Seguidores&style=social" alt="Insignia de GitHub"></a>
-<br><br>
+> Estudiante de **Análisis de Sistemas** en el Instituto Valle Grande
 
-## 💻 Tecnologías
+- 💻 Apasionado por el desarrollo de software fullstack
+- 🧠 Actualmente trabajando en proyectos con **Spring Boot**, **Angular**, **SQL Server**, **React** y más
+- 🧪 Experiencia desarrollando sistemas completos para restaurantes, apps web con login, chat y panel de administración
+- ⚙️ Implementando proyectos con **Docker**, **JasperReports**, **GitHub Actions** y entornos colaborativos como **Trello**, **Slack** y **Figma**
+- 🎮 Me gusta programar mods para juegos como *Left 4 Dead 2* y desarrollar herramientas estilo "hacker terminal" ficticias
+
+---
+
+### 📬 Conéctate conmigo
+
+- 📱 WhatsApp: [Clic aquí](https://wa.me/51903011604)
+- 📧 Email: [carlos.caycho.casas@vallegrande.edu.pe](mailto:carlos.caycho.casas@vallegrande.edu.pe)
+- 🧑‍💻 GitHub: [CarlosCaychoCasas](https://github.com/CarlosCaychoCasas)
+- 🎥 YouTube: [Carlos Alejandro Caycho Casas](https://www.youtube.com/@CarlosAlejandroCaychoCasas)
+
+---
+
+## 💻 Tecnologías que uso
 
 <div>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> 
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="Python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <br><br>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
-## 🚀 Actividad
+---
+
+## 📊 Estadísticas
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Actividad en GitHub</b></i>
-</p>
- 
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosCaychoCasas&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="CarlosCaychoCasas" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=CarlosCaychoCasas&show_icons=true&locale=en&theme=chartreuse-dark" alt="CarlosCaychoCasas" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosCaychoCasas&show_icons=true&theme=chartreuse-dark" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCaychoCasas&layout=compact&theme=chartreuse-dark" width="360"/>
 </p>
 
-<br><br><br><br><br><br><br><br>
+![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=CarlosCaychoCasas&custom_title=Actividad%20de%20Carlos%20Caycho&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=CarlosCaychoCasas&custom_title=Actividad%20de%20Carlos%20Caycho&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+---
 
+📅 _Última actualización: **03/07/2025**_
 
-## 😎 Conéctate conmigo
-<p align="left">
-  
-<a href="https://www.youtube.com/@CarlosAlejandroCaychoCasas" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="carlos.caycho.casas@vallegrande.edu.pe" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-<a href="https://github.com/CarlosCaychoCasas" target="blank"> <img align="center" alt="GitHub" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
-</p>
-
-
-<br>
-
-_Créditos: [Carlos Caycho](https://github.com/CarlosCaychoCasas) Última edición el 12/03/2025_
+_Créditos: [Carlos Caycho](https://github.com/CarlosCaychoCasas)_
